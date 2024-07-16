@@ -5,7 +5,7 @@ Este proyecto permite al usuario buscar libros utilizando la API Gutendex y guar
 # Características:
 
 + **Buscar Libro:** Permite buscar libros utilizando la API de Gutendex y guarda el primer resultado encontrado en la base de datos.
-  ![image]
+  ![image](https://github.com/josemartinez93/Challenge-Literalura/blob/0f8bb88b76c11bedce7256baedf8b15dac7b466c/img/1%20buscar%20libro%20por%20titulo.png)
 
   
 
