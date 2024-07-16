@@ -5,18 +5,27 @@ Este proyecto permite al usuario buscar libros utilizando la API Gutendex y guar
 # Características:
 
 + **Buscar Libro:** Permite buscar libros utilizando la API de Gutendex y guarda el primer resultado encontrado en la base de datos.
+  ![image]
+
   
 
 + **Listar Libros:** Permite imprimir por consola todos los libros guardados en la base de datos.
-  
+![image](https://github.com/josemartinez93/Challenge-Literalura/blob/98873e91b2b77568ddf3a502cd6c1aa5586b7b9c/img/2%20muestra%20los%20libros%20registrados.png)
+
 
 + **Listar Autores:** Imprime por consola todos los autores guardados en la base de datos.
+  ![image](https://github.com/josemartinez93/Challenge-Literalura/blob/98873e91b2b77568ddf3a502cd6c1aa5586b7b9c/img/3%20muestra%20los%20autores%20registrados.png)
+
   
 
 + **Listar Autores por Año:** Imprime por consola los autores vivos en el año especificado.
+  ![image](https://github.com/josemartinez93/Challenge-Literalura/blob/98873e91b2b77568ddf3a502cd6c1aa5586b7b9c/img/4%20solicita%20ingresar%20un%20a%C3%B1o.png)
+
   
 
 + **Listar Libros por Idioma:** Filtra los libros según el idioma especificado y los muestra por consola.
+  ![image](https://github.com/josemartinez93/Challenge-Literalura/blob/98873e91b2b77568ddf3a502cd6c1aa5586b7b9c/img/5%20los%20idiomas%20en%20los%20que%20se%20escribieron%20los%20libros.png)
+
   
 
 
